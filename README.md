@@ -1,4 +1,4 @@
 # kafka8
-Kafka8 tools/integrations 
+Kafka8.x.x custom tools/integrations etc 
 
-The script monitors the existance of a broker in ZK data structure
+broker-monitor-prometheus.py - script monitors the existance of a broker inside the ZK data structure.
